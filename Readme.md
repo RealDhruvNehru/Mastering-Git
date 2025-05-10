@@ -1,3 +1,2 @@
-# Welcome to Git !!
- - I am adding this from feature branch
- - Steven Added this change
+# Hello Git 
+I am adding this from feature branch
